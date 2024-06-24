@@ -1,0 +1,26 @@
+.success-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f8ff;
+}
+
+.success-message {
+    background-color: #dff0d8;
+    color: #3c763d;
+    border: 1px solid #d6e9c6;
+    border-radius: 4px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.success-message h2 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.success-message p {
+    margin: 10px 0 0;
+    font-size: 16px;
+}

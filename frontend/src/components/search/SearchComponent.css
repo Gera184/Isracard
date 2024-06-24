@@ -1,0 +1,45 @@
+.cards-container {
+    padding: 0;
+}
+
+.search-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.search-input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+
+.search-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+.search-button:hover {
+    background-color: #0056b3;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+
+.input-label {
+    font-weight: bold;
+}
+
+.search-input[type=number]::-webkit-outer-spin-button,
+.search-input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+
+}

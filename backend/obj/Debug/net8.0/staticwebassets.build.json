@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "nzQVxvXY0z/0TIKSzpKIywDaL6FPfoL052ZhY9NDVQg=",
+  "Source": "backend",
+  "BasePath": "_content/backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend\\wwwroot",
+      "Source": "backend",
+      "ContentRoot": "C:\\Users\\Gera\\Desktop\\projects\\Isracard\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Gera\\Desktop\\projects\\Isracard\\backend\\wwwroot\\assets\\creditCard.png",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gera\\Desktop\\projects\\Isracard\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "assets/creditCard.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\creditCard.png"
+    }
+  ]
+}
